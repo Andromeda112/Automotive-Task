@@ -1,0 +1,16 @@
+.SpriteL, .spriteR{
+	background: url(sprites.png) no-repeat;
+}
+
+.SpriteL{
+	background-position: 0 -12px ;
+	width: 28px;
+	height: 27px;
+}
+
+.spriteR{
+	background-position: -19px 0;
+	width: 36px;
+	height: 35px;
+}
+
